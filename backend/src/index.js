@@ -1,3 +1,5 @@
+//Base da aplicação
+
 const express = require('express');
 const cors = require('cores');
 const routes = require('./routes');
